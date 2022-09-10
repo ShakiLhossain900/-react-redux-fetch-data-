@@ -9,7 +9,7 @@ export default App;
 
 
 //react-redux | fetch data plan for this project 
-// 1. install packages
+// 1. install packages            || npm install redux react-redux axios redux-thunk
 //2. constants define
 //3. async action creator 
 // 4. reducer 
