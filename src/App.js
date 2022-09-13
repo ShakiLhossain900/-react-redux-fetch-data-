@@ -20,3 +20,6 @@ export default App;
 // 6. provide store
 //  7. use store
 // 8. adding store
+
+
+/// finally todo app react redux compelete
